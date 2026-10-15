@@ -1,5 +1,4 @@
 {
-    "version":  "1.17.9",
-    "releaseUrl":  "https://github.com/0xlividor/clickerist/releases",
-    "prerelease":  true
+  "version": "1.17.34",
+  "prerelease": false
 }
