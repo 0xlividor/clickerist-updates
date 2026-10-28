@@ -1,5 +1,5 @@
 {
-    "version":  "1.17.133",
+    "version":  "1.17.137",
     "prerelease":  false,
-    "releaseNotes":  "### Ticketek\n\n#### Fixes and improvements\n\n- Fixed Focus mode leaving quantity at 0 after restoring Best Available (Any price).\n- Changing price ranges no longer trigger recovery solely because the saved price differs.\n- Restores the saved quantity once the ticket controls are ready.\n- Keeps explicit maximum-price limits and specific-category price protection.\n- Adds clearer activity logs for price changes, quantity restoration and validation failures.\n- Shows “Any price (live range)” instead of a misleading fixed price.\n\nStop and held-ticket/checkout protections remain unchanged. No AXS or Ticketmaster changes in this version.\n\nVerification: 92 unit tests and targeted browser fixtures passed. Live Ticketek and native Firefox verification remain manual."
+    "releaseNotes":  "### Ticketek\n\n- Added Adult / Family of 4 tabs to F8 Instant Mode.\n- Improved category styling and ticket-type distinction.\n- Fixed verified family-pack pricing and seat grouping.\n- Added x tickets formatting and native seat notices below Total.\n\n### Firefox — New feature\n\n- Official Clickerist for Firefox: Mozilla-signed extension for private installation without temporary loading.\n- Addressed the reported Firefox validation warnings.\n- Firefox Drive downloads now use the Mozilla-signed XPI; Chrome downloads remain ZIP files."
 }
