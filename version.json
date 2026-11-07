@@ -1,5 +1,5 @@
 {
-    "version":  "1.17.137",
+    "version":  "1.17.140",
     "prerelease":  false,
-    "releaseNotes":  "### Ticketek\n\n- Added Adult / Family of 4 tabs to F8 Instant Mode.\n- Improved category styling and ticket-type distinction.\n- Fixed verified family-pack pricing and seat grouping.\n- Added x tickets formatting and native seat notices below Total.\n\n### Firefox — New feature\n\n- Official Clickerist for Firefox: Mozilla-signed extension for private installation without temporary loading.\n- Addressed the reported Firefox validation warnings.\n- Firefox Drive downloads now use the Mozilla-signed XPI; Chrome downloads remain ZIP files."
+    "releaseNotes":  "### Ticketek\r\n\r\n- Added a separate cookies and site data command for the AU and NZ premier sites, with confirmation.\r\n\r\n### Ticketmaster\r\n\r\n- Fixed +1 ticket alternation after a mismatched reservation is released.\r\n\r\n### Ticketek Marketplace\r\n\r\n- Added unique Marketplace feedback report IDs and improved retrieval of captured report HTML.\r\n\r\n### General\r\n\r\n- Unsupported pages show guidance instead of unrelated Ticketek controls."
 }
